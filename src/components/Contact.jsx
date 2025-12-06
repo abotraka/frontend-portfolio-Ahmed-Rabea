@@ -26,14 +26,14 @@ const Contact = () => {
 
   const contactInfo = [
     { icon: <Mail className="w-6 h-6" />, title: 'Email', value: 'aborabea3.ahmed@gmail.com', link: 'mailto:aborabea3.ahmed@gmail.com' },
-    { icon: <Phone className="w-6 h-6" />, title: 'Phone', value: '+20 123 456 7890', link: 'tel:+201234567890' },
+    { icon: <Phone className="w-6 h-6" />, title: 'Phone', value: '+201009219621', link: 'tel:+201009219621' },
     { icon: <MapPin className="w-6 h-6" />, title: 'Location', value: 'Cairo, Egypt', link: '#' },
   ];
 
   const socialLinks = [
-    { name: 'LinkedIn', icon: <Linkedin className="w-6 h-6" />, url: 'www.linkedin.com/in/ahmed-aborabea', color: 'hover:bg-blue-600 hover:text-white' },
+    { name: 'LinkedIn', icon: <Linkedin className="w-6 h-6" />, url: 'https://www.linkedin.com/in/ahmed-aborabea', color: 'hover:bg-blue-600 hover:text-white' },
     { name: 'GitHub', icon: <Github className="w-6 h-6" />, url: 'https://github.com/abotraka', color: 'hover:bg-gray-800 hover:text-white' },
-    { name: 'WhatsApp', icon: <MessageCircle className="w-6 h-6" />, url: 'https://wa.me/201234567890', color: 'hover:bg-green-600 hover:text-white' },
+    { name: 'WhatsApp', icon: <MessageCircle className="w-6 h-6" />, url: 'https://wa.me/201009219621', color: 'hover:bg-green-600 hover:text-white' },
   ];
 
   return (

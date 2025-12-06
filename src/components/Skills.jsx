@@ -42,7 +42,7 @@ const Skills = () => {
               </div>
               <div className="w-full bg-gray-200 dark:bg-dark-600 rounded-full h-3 mb-2">
                 <motion.div custom={skill.level} variants={progressVariants} className="bg-gradient-to-r from-primary-500 to-primary-600 h-3 rounded-full relative">
-                  <div className="absolute right-0 top-0 transform translate-x-1/2 -translate-y-6 bg-primary-600 text-white text-xs px-2 py-1 rounded">{skill.level}%</div>
+                  <div className="absolute right-0 top-0 transform translate-x-1/2 -translate-y-6 bg-primary-600 text-white text-xs px-2 py-1 rounded">Strong</div>
                 </motion.div>
               </div>
             </motion.div>

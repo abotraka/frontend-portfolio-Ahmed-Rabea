@@ -10,7 +10,7 @@ Frontend Developer
 
 CONTACT
 Email: aborabea3.ahmed@gmail.com
-LinkedIn: www.linkedin.com/in/ahmed-aborabea
+LinkedIn: https://www.linkedin.com/in/ahmed-aborabea
 GitHub: https://github.com/abotraka
 
 SUMMARY

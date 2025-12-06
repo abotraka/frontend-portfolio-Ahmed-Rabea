@@ -6,7 +6,7 @@ const Footer = () => {
   const scrollToTop = () => window.scrollTo({ top: 0, behavior: 'smooth' });
 
   const socialLinks = [
-    { name: 'LinkedIn', icon: <Linkedin className="w-5 h-5" />, url: 'www.linkedin.com/in/ahmed-aborabea', color: 'hover:text-blue-600' },
+    { name: 'LinkedIn', icon: <Linkedin className="w-5 h-5" />, url: 'https://www.linkedin.com/in/ahmed-aborabea', color: 'hover:text-blue-600' },
     { name: 'GitHub', icon: <Github className="w-5 h-5" />, url: 'https://github.com/abotraka', color: 'hover:text-gray-800 dark:hover:text-white' },
     { name: 'Email', icon: <Mail className="w-5 h-5" />, url: 'mailto:aborabea3.ahmed@gmail.com', color: 'hover:text-red-600' },
   ];

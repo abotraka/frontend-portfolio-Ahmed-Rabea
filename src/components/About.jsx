@@ -8,7 +8,7 @@ const About = () => {
     {
       name: 'LinkedIn',
       icon: <Linkedin className="w-5 h-5" />,
-      url: 'www.linkedin.com/in/ahmed-aborabea',
+      url: 'https://www.linkedin.com/in/ahmed-aborabea',
       color: 'hover:text-blue-600'
     },
     {
